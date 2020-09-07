@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/neodevpro/neodevhost/master/logo.png)
+![Logo](https://cdn.jsdelivr.net/gh/neodevpro/neodevhost/logo.png)
 
     
     
