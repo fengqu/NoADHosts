@@ -8,7 +8,7 @@
 #
 # Last update: 2020-09-23
 #
-# Number of blocked domains:  87807
+# Number of blocked domains:  87801
 #
 #=====================================
 0.0.0.0  0.nextyourcontent.com
@@ -44233,7 +44233,6 @@
 0.0.0.0  ma80-r.analytics.edgekey.net
 0.0.0.0  ma85-r-analytics.akamaized.net
 0.0.0.0  ma93-r.analytics.edgekey.net
-0.0.0.0  maad.maru.jp
 0.0.0.0  maalaimalar.com
 0.0.0.0  maastriesyu.club
 0.0.0.0  maatch.com
@@ -44531,7 +44530,6 @@
 0.0.0.0  man7777.com
 0.0.0.0  manage.adtima.vn
 0.0.0.0  manage.com
-0.0.0.0  manage.wdfans.cn
 0.0.0.0  manage.wuhancloud.cn
 0.0.0.0  manage001.adtech.fr
 0.0.0.0  manage001.adtech.us
@@ -44661,7 +44659,6 @@
 0.0.0.0  markerly.com
 0.0.0.0  market-buster.com
 0.0.0.0  market.178.com
-0.0.0.0  market.21cn.com
 0.0.0.0  market.52pk.com
 0.0.0.0  market.cityads.com
 0.0.0.0  market.duowan.com
@@ -44762,7 +44759,6 @@
 0.0.0.0  marzectoyoty.pl
 0.0.0.0  marzymisietoskania.pl
 0.0.0.0  mas.nth.ch
-0.0.0.0  mas.sector.sk
 0.0.0.0  masalatalk.us.intellitxt.com
 0.0.0.0  masazstarogard.com.pl
 0.0.0.0  maschina.xyz
@@ -45198,7 +45194,6 @@
 0.0.0.0  meatthe.ru
 0.0.0.0  meatydime.com
 0.0.0.0  mebablo.com
-0.0.0.0  meble-smolec.pl
 0.0.0.0  meble24.ovel.pl
 0.0.0.0  meblenazamowieniereda.pl
 0.0.0.0  meborangot.ru
@@ -45467,7 +45462,6 @@
 0.0.0.0  mediator.mail.ru
 0.0.0.0  mediatrade.h19.ru
 0.0.0.0  mediatraffic.com
-0.0.0.0  mediatraffic.com.ua
 0.0.0.0  mediatraks.com
 0.0.0.0  mediaunder.info
 0.0.0.0  mediaunder.org
@@ -45555,7 +45549,6 @@
 0.0.0.0  megabc.info
 0.0.0.0  megabestnews.net
 0.0.0.0  megabizvibes.com
-0.0.0.0  megabonus-point3.life
 0.0.0.0  megacash.de
 0.0.0.0  megacloudz.net
 0.0.0.0  megacpm.com
@@ -53792,6 +53785,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
