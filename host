@@ -8,7 +8,7 @@
 #
 # Last update: 2020-09-24
 #
-# Number of blocked domains:  107053
+# Number of blocked domains:  107054
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -21437,6 +21437,7 @@
 0.0.0.0  cdn.appround.biz
 0.0.0.0  cdn.appsflyer.com
 0.0.0.0  cdn.apvdr.com
+0.0.0.0  cdn.ark.qq.com
 0.0.0.0  cdn.as.amanad.adtdp.com
 0.0.0.0  cdn.askosshunt.com
 0.0.0.0  cdn.assets.craveonline.com
@@ -43017,6 +43018,7 @@
 0.0.0.0  ibxfhtklswtbd.com
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
+0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -59393,7 +59395,6 @@
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
-0.0.0.0  news.docer.com
 0.0.0.0  news.fangdaijisuanqi.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.govorjat.ru
@@ -69338,6 +69339,7 @@
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -86372,7 +86374,6 @@
 0.0.0.0  up.mykings.pw
 0.0.0.0  up.nytimes.com
 0.0.0.0  up.qingdaonews.com
-0.0.0.0  up.wps.kingsoft.com
 0.0.0.0  up1.tj.u2.ucweb.com
 0.0.0.0  up4.ucweb.com
 0.0.0.0  upads.info
