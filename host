@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-04
 #
-# Number of blocked domains:  107811
+# Number of blocked domains:  107810
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -5693,6 +5693,7 @@
 0.0.0.0  ad2.peel.com
 0.0.0.0  ad2.pl
 0.0.0.0  ad2.pl.mediainter.net
+0.0.0.0  ad2.plugmedia.hk
 0.0.0.0  ad2.rambler.ru
 0.0.0.0  ad2.sbisec.co.jp
 0.0.0.0  ad2.sina.com.cn
@@ -16721,7 +16722,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -59754,7 +59754,6 @@
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
-0.0.0.0  news.docer.com
 0.0.0.0  news.fangdaijisuanqi.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.govorjat.ru
@@ -65641,6 +65640,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -68292,7 +68292,6 @@
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
-0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
@@ -88019,7 +88018,6 @@
 0.0.0.0  vas.isnssdk.com
 0.0.0.0  vasanthkumar.com
 0.0.0.0  vasapi.mangoads.vn
-0.0.0.0  vasapi.rdtuijian.com
 0.0.0.0  vasb.cn
 0.0.0.0  vaserviece.10jqka.com.cn
 0.0.0.0  vasgenerete.site
@@ -88145,6 +88143,7 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vczprcezg.com
+0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdacizdywoe.com
