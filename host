@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-13
 #
-# Number of blocked domains:  107931
+# Number of blocked domains:  107945
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -4428,6 +4428,7 @@
 0.0.0.0  abtao.wang
 0.0.0.0  abtasty.com
 0.0.0.0  abtasty.net
+0.0.0.0  abtest-ch.snssdk.com
 0.0.0.0  abtest.alibaba.com
 0.0.0.0  abtest.mistat.intl.xiaomi.com
 0.0.0.0  abtest.swrve.com
@@ -6097,6 +6098,7 @@
 0.0.0.0  adc.9news.com.au
 0.0.0.0  adc.api.nine.com.au
 0.0.0.0  adc.brandreachsys.com
+0.0.0.0  adc.hpplay.cn
 0.0.0.0  adc.media-rep.com
 0.0.0.0  adc.medibaad.com
 0.0.0.0  adc.nine.com.au
@@ -8102,6 +8104,7 @@
 0.0.0.0  ads.iboost.com
 0.0.0.0  ads.ibryte.com
 0.0.0.0  ads.ibtracking.com
+0.0.0.0  ads.icloseli.cn
 0.0.0.0  ads.icloseli.com
 0.0.0.0  ads.icq.com
 0.0.0.0  ads.ictnews.vn
@@ -10155,6 +10158,7 @@
 0.0.0.0  adszui.com
 0.0.0.0  adszx.pro
 0.0.0.0  adt.com.vn
+0.0.0.0  adt.cpatrk.net
 0.0.0.0  adt.m7z.net
 0.0.0.0  adt.xdrig.com
 0.0.0.0  adt100.com
@@ -10771,6 +10775,7 @@
 0.0.0.0  adx.admicro.vn
 0.0.0.0  adx.adnxs.com
 0.0.0.0  adx.adrenalinesk.sk
+0.0.0.0  adx.ads.heytapmobi.com
 0.0.0.0  adx.ads.oppomobile.com
 0.0.0.0  adx.adxglobal.com
 0.0.0.0  adx.agrantsem.com
@@ -16228,6 +16233,7 @@
 0.0.0.0  b0e8.com
 0.0.0.0  b0lc.cn
 0.0.0.0  b0omr3wn6u4b.com
+0.0.0.0  b1-data.ads.heytapmobi.com
 0.0.0.0  b1.0430.com
 0.0.0.0  b1.51scw.net
 0.0.0.0  b1.91jucai.com
@@ -16264,6 +16270,7 @@
 0.0.0.0  b1img.com
 0.0.0.0  b1js.com
 0.0.0.0  b1sync.zemanta.com
+0.0.0.0  b2-data.ads.heytapmobi.com
 0.0.0.0  b2.0430.com
 0.0.0.0  b2.ijquery11.com
 0.0.0.0  b25ku.cn
@@ -42718,6 +42725,7 @@
 0.0.0.0  hvtlipnbfwu.com
 0.0.0.0  hvwaieuielzzy.com
 0.0.0.0  hvxhmsiz.com
+0.0.0.0  hw.zuimeitianqi.com
 0.0.0.0  hw6.com
 0.0.0.0  hwad.zuimeitianqi.com
 0.0.0.0  hwekl8dz1d.com
@@ -43293,6 +43301,7 @@
 0.0.0.0  ibxfhtklswtbd.com
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
+0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -44314,6 +44323,7 @@
 0.0.0.0  img01.taotaosou.cn
 0.0.0.0  img1.126.net
 0.0.0.0  img1.18183.com
+0.0.0.0  img1.360buyimg.com
 0.0.0.0  img1.biyan8.com
 0.0.0.0  img1.eywdf.com
 0.0.0.0  img1.g.pptv.com
@@ -59778,6 +59788,7 @@
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
+0.0.0.0  news.docer.com
 0.0.0.0  news.fangdaijisuanqi.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.govorjat.ru
@@ -60659,7 +60670,6 @@
 0.0.0.0  notify.rocks
 0.0.0.0  notify.solutions
 0.0.0.0  notify.support
-0.0.0.0  notify.wps.cn
 0.0.0.0  notify1.brucelead.com
 0.0.0.0  notifyback-va.isnssdk.com
 0.0.0.0  notifyday.com
@@ -64510,6 +64520,7 @@
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -65677,6 +65688,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -69857,7 +69869,6 @@
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
-0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -83497,6 +83508,7 @@
 0.0.0.0  topads.rrstar.com
 0.0.0.0  topadvert.ru
 0.0.0.0  topanonse.pl
+0.0.0.0  topapi.cp12.ott.cibntv.net
 0.0.0.0  topapi.cp12.wasu.tv
 0.0.0.0  topapps-func.pinsightmedia.com
 0.0.0.0  topauto10.com
@@ -86250,6 +86262,7 @@
 0.0.0.0  ual.ocmcbyxm.xyz
 0.0.0.0  ualumphuoldi.angelcities.com
 0.0.0.0  uamobile.net
+0.0.0.0  uapi.ads.heytapmobi.com
 0.0.0.0  uapi.ads.oppomobile.com
 0.0.0.0  uapi.punchbox.org
 0.0.0.0  uapoisk.net
@@ -91799,6 +91812,7 @@
 0.0.0.0  wpwdf.com
 0.0.0.0  wpxn.com
 0.0.0.0  wpxowkmaeyrte.com
+0.0.0.0  wq.360buyimg.com
 0.0.0.0  wq19w.cn
 0.0.0.0  wq42219.com
 0.0.0.0  wqgdajjozr.com
