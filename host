@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-17
 #
-# Number of blocked domains:  106953
+# Number of blocked domains:  106968
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -176,6 +176,7 @@
 0.0.0.0  0755man.cn
 0.0.0.0  0756j.com
 0.0.0.0  0756sjlm.com.cn
+0.0.0.0  0757kd.cn
 0.0.0.0  07634.com
 0.0.0.0  07780778.com
 0.0.0.0  0796gou.com
@@ -256,6 +257,7 @@
 0.0.0.0  0oaqgsk54hm5.com
 0.0.0.0  0ozo.cn
 0.0.0.0  0pen.page
+0.0.0.0  0pengl.com
 0.0.0.0  0pixl.com
 0.0.0.0  0pj1f.cn
 0.0.0.0  0pn.ru
@@ -415,6 +417,7 @@
 0.0.0.0  100669.com
 0.0.0.0  10078777.com
 0.0.0.0  100800.advision-adnw.jp
+0.0.0.0  1008691.com
 0.0.0.0  10086yule.com
 0.0.0.0  100cpc.com
 0.0.0.0  100dollars-seo.com
@@ -577,6 +580,7 @@
 0.0.0.0  123count.com
 0.0.0.0  123counter.mycomputer.com
 0.0.0.0  123counter.superstats.com
+0.0.0.0  123counters.com
 0.0.0.0  123cursors.com
 0.0.0.0  123date.me
 0.0.0.0  123ero.nl
@@ -3153,6 +3157,7 @@
 0.0.0.0  913vt.com
 0.0.0.0  915.com
 0.0.0.0  9158918.com
+0.0.0.0  91756.cn
 0.0.0.0  91860.com
 0.0.0.0  9188car.com
 0.0.0.0  919198.com
@@ -10158,6 +10163,7 @@
 0.0.0.0  adunite.com
 0.0.0.0  adunity.com
 0.0.0.0  adup-tech.com
+0.0.0.0  adups.cn
 0.0.0.0  adups.com
 0.0.0.0  adurr.com
 0.0.0.0  aduu.cn
@@ -16501,7 +16507,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -18682,7 +18687,6 @@
 0.0.0.0  bokuraga-yell.com
 0.0.0.0  bold-in.ru
 0.0.0.0  boldride.us.intellitxt.com
-0.0.0.0  bole.shangshufang.ksosoft.com
 0.0.0.0  bolek69.pl
 0.0.0.0  bolili.info
 0.0.0.0  bolizirs.com
@@ -23535,6 +23539,7 @@
 0.0.0.0  cloudservice12.kingsoft-office-service.com
 0.0.0.0  cloudservice13.kingsoft-office-service.com
 0.0.0.0  cloudservice14.kingsoft-office-service.com
+0.0.0.0  cloudservice22.kingsoft-office-service.com
 0.0.0.0  cloudservice24.kingsoft-office-service.com
 0.0.0.0  cloudservice27.kingsoft-office-service.com
 0.0.0.0  cloudsrvtrk.com
@@ -42856,7 +42861,6 @@
 0.0.0.0  ibxfhtklswtbd.com
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
-0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -63899,7 +63903,6 @@
 0.0.0.0  pcash.imlive.com
 0.0.0.0  pcash.wildmatch.com
 0.0.0.0  pcauto.irs01.com
-0.0.0.0  pcbrowser.dd.qq.com
 0.0.0.0  pcbutts1-therealtruth.blogspot.com
 0.0.0.0  pcbutts1.ourtoolbar.com
 0.0.0.0  pcbutts1.software.informer.com
@@ -87378,6 +87381,7 @@
 0.0.0.0  vcomdeepdiscount.112.2o7.net
 0.0.0.0  vcommerce.112.2o7.net
 0.0.0.0  vcommission.com
+0.0.0.0  vconf.f.360.cn
 0.0.0.0  vcontent.e-messenger.net
 0.0.0.0  vcr.staging2.crazyegg.com
 0.0.0.0  vcrypt.net
@@ -87390,7 +87394,6 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vczprcezg.com
-0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdains.info
@@ -91536,7 +91539,10 @@
 0.0.0.0  www.00fun.com
 0.0.0.0  www.00x.eu
 0.0.0.0  www.02-wiadomosci.com.pl
+0.0.0.0  www.0202.com.tw
 0.0.0.0  www.0551zgz.com
+0.0.0.0  www.0757kd.cn
+0.0.0.0  www.07634.com
 0.0.0.0  www.0b8cc331813049912.temporary.link
 0.0.0.0  www.0e0.eu
 0.0.0.0  www.0ff.page
@@ -91544,6 +91550,7 @@
 0.0.0.0  www.0lx.group
 0.0.0.0  www.0n.click
 0.0.0.0  www.0pen.page
+0.0.0.0  www.0pengl.com
 0.0.0.0  www.0stats.com
 0.0.0.0  www.0uk.net
 0.0.0.0  www.0xi.com.pl
@@ -91552,6 +91559,7 @@
 0.0.0.0  www.1-1ads.com
 0.0.0.0  www.1001movies.com
 0.0.0.0  www.10086.cn.baidu.cdn.yiwk.com
+0.0.0.0  www.1008691.com
 0.0.0.0  www.100fenlm.com
 0.0.0.0  www.100sport.tv
 0.0.0.0  www.105vibe.com
@@ -91563,6 +91571,7 @@
 0.0.0.0  www.12322app.com
 0.0.0.0  www.123banners.com
 0.0.0.0  www.123counter.superstats.com
+0.0.0.0  www.123counters.com
 0.0.0.0  www.123go.com
 0.0.0.0  www.123movies.my.id
 0.0.0.0  www.123musicblend.blogspot.com
@@ -91573,10 +91582,13 @@
 0.0.0.0  www.15b37.skroc.pl
 0.0.0.0  www.15x.eu
 0.0.0.0  www.163ren.com
+0.0.0.0  www.166f.com
 0.0.0.0  www.1680go.com
 0.0.0.0  www.17bqg.top
+0.0.0.0  www.17chezhan.com
 0.0.0.0  www.17gouwuba.com
 0.0.0.0  www.17un.com
+0.0.0.0  www.17youzi.com
 0.0.0.0  www.17zhaole.com
 0.0.0.0  www.1800banners.com
 0.0.0.0  www.1809175.na397463.web.hosting-test.net
@@ -91805,6 +91817,7 @@
 0.0.0.0  www.88nu.info
 0.0.0.0  www.8jzw.com
 0.0.0.0  www.910weixin.com
+0.0.0.0  www.91756.cn
 0.0.0.0  www.91veg.com
 0.0.0.0  www.93vitoo.com
 0.0.0.0  www.93vitui.com
@@ -92157,6 +92170,7 @@
 0.0.0.0  www.adultdatelink.com
 0.0.0.0  www.adultlinkexchange.com
 0.0.0.0  www.adultlinksco.com
+0.0.0.0  www.adups.cn
 0.0.0.0  www.adv.axiatraders.com
 0.0.0.0  www.adv.grandonmedia.com
 0.0.0.0  www.adv.sec.intl.miui.com
@@ -93818,6 +93832,7 @@
 0.0.0.0  www.cqcounter.com
 0.0.0.0  www.cqsta.com
 0.0.0.0  www.crakmedia.com
+0.0.0.0  www.crash.163.com
 0.0.0.0  www.crazypopups.com
 0.0.0.0  www.crazyprotocol.com
 0.0.0.0  www.crazywinnings.com
