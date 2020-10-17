@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-17
 #
-# Number of blocked domains:  106971
+# Number of blocked domains:  106970
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -16507,6 +16507,7 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
+0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -59202,7 +59203,6 @@
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
-0.0.0.0  news.docer.com
 0.0.0.0  news.fangdaijisuanqi.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.govorjat.ru
@@ -63885,7 +63885,6 @@
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
-0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -87274,7 +87273,6 @@
 0.0.0.0  vartoken.com
 0.0.0.0  vasanthkumar.com
 0.0.0.0  vasapi.mangoads.vn
-0.0.0.0  vasapi.rdtuijian.com
 0.0.0.0  vasb.cn
 0.0.0.0  vaserviece.10jqka.com.cn
 0.0.0.0  vasgenerete.site
@@ -90996,6 +90994,7 @@
 0.0.0.0  wpr.hot-mob.com
 0.0.0.0  wprost-news.pl
 0.0.0.0  wpsconfig4svr.elasticbeanstalk.com
+0.0.0.0  wpsweb-dc.wps.cn
 0.0.0.0  wpu.sh
 0.0.0.0  wpunkcie.pl
 0.0.0.0  wpush.biz
