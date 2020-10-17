@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-17
 #
-# Number of blocked domains:  106973
+# Number of blocked domains:  106970
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -21281,7 +21281,6 @@
 0.0.0.0  cdn.appround.biz
 0.0.0.0  cdn.appsflyer.com
 0.0.0.0  cdn.apvdr.com
-0.0.0.0  cdn.ark.qq.com
 0.0.0.0  cdn.as.amanad.adtdp.com
 0.0.0.0  cdn.askosshunt.com
 0.0.0.0  cdn.assets.craveonline.com
@@ -42862,7 +42861,6 @@
 0.0.0.0  ibxfhtklswtbd.com
 0.0.0.0  ibza.romsenergy.com
 0.0.0.0  ic-live.com
-0.0.0.0  ic.ksosoft.com
 0.0.0.0  ic.snssdk.com
 0.0.0.0  ic.tynt.com
 0.0.0.0  ic.wps.cn
@@ -65060,6 +65058,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -67705,7 +67704,6 @@
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
-0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
@@ -87398,7 +87396,6 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vczprcezg.com
-0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdains.info
