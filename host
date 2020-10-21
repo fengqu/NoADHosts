@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-21
 #
-# Number of blocked domains:  109208
+# Number of blocked domains:  109214
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -4569,7 +4569,6 @@
 0.0.0.0  acs.56.com
 0.0.0.0  acs.agent.56.com
 0.0.0.0  acs.agent.v-56.com
-0.0.0.0  acs.m.taobao.com
 0.0.0.0  acs.wapa.taobao.com
 0.0.0.0  acs86.com
 0.0.0.0  acsabath.com
@@ -16720,7 +16719,6 @@
 0.0.0.0  banner2.casino.com
 0.0.0.0  banner2.inet-traffic.com
 0.0.0.0  banner2.isobarturkiye.net
-0.0.0.0  bannera.kingsoft-office-service.com
 0.0.0.0  bannerads.anytimenews.com
 0.0.0.0  bannerads.co.in
 0.0.0.0  bannerads.de
@@ -23914,6 +23912,7 @@
 0.0.0.0  cloudservice12.kingsoft-office-service.com
 0.0.0.0  cloudservice13.kingsoft-office-service.com
 0.0.0.0  cloudservice14.kingsoft-office-service.com
+0.0.0.0  cloudservice22.kingsoft-office-service.com
 0.0.0.0  cloudservice24.kingsoft-office-service.com
 0.0.0.0  cloudservice27.kingsoft-office-service.com
 0.0.0.0  cloudsrvtrk.com
@@ -58794,6 +58793,7 @@
 0.0.0.0  mtp.spcs.me
 0.0.0.0  mtqys.com
 0.0.0.0  mtrace.play.aiseet.atianqi.com
+0.0.0.0  mtrace.play.cp81.ott.cibntv.net
 0.0.0.0  mtrace.qq.com
 0.0.0.0  mtrack.nl
 0.0.0.0  mtracking.com
@@ -64033,7 +64033,9 @@
 0.0.0.0  ots.optimize.webtrends.com
 0.0.0.0  otsserver.com
 0.0.0.0  otsurvedchange.info
+0.0.0.0  ott-v0-al.data.mgtv.com
 0.0.0.0  ott.da.mgtv.com
+0.0.0.0  ott.v1.data.mgtv.com
 0.0.0.0  ott2.da.mgtv.com
 0.0.0.0  ott3.da.mgtv.com
 0.0.0.0  ottacknet.112.2o7.net
@@ -66518,6 +66520,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
@@ -70752,6 +70755,7 @@
 0.0.0.0  rathbone-art.com
 0.0.0.0  rating-widget.com
 0.0.0.0  rating.in
+0.0.0.0  rating6.kingsoft-office-service.com
 0.0.0.0  ratings.lycos.com
 0.0.0.0  ratingtoplist.com
 0.0.0.0  ratioboom.ru
@@ -76199,6 +76203,7 @@
 0.0.0.0  sf01.fastapi.net
 0.0.0.0  sf1-ttcdn-tos.pstatp.com
 0.0.0.0  sf14g.com
+0.0.0.0  sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0  sf3-ttcdn-tos.pstatp.com
 0.0.0.0  sf6-ttcdn-tos.pstatp.com
 0.0.0.0  sf9yvla26s5t.com
@@ -84018,6 +84023,7 @@
 0.0.0.0  timepopsci.122.2o7.net
 0.0.0.0  timerealsimple.112.2o7.net
 0.0.0.0  times-series-gb.times-series.co.uk
+0.0.0.0  timeserver.cnzz.net
 0.0.0.0  timeslog.indiatimes.com
 0.0.0.0  timeslogtn.timesnow.tv
 0.0.0.0  timespctenbest.122.2o7.net
@@ -89243,6 +89249,7 @@
 0.0.0.0  vartoken.com
 0.0.0.0  vasanthkumar.com
 0.0.0.0  vasapi.mangoads.vn
+0.0.0.0  vasapi.rdtuijian.com
 0.0.0.0  vasb.cn
 0.0.0.0  vaserviece.10jqka.com.cn
 0.0.0.0  vasgenerete.site
@@ -89369,7 +89376,6 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vczprcezg.com
-0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdains.info
