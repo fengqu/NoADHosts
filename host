@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-22
 #
-# Number of blocked domains:  109262
+# Number of blocked domains:  109264
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -23919,6 +23919,7 @@
 0.0.0.0  cloudservice12.kingsoft-office-service.com
 0.0.0.0  cloudservice13.kingsoft-office-service.com
 0.0.0.0  cloudservice14.kingsoft-office-service.com
+0.0.0.0  cloudservice22.kingsoft-office-service.com
 0.0.0.0  cloudservice24.kingsoft-office-service.com
 0.0.0.0  cloudservice27.kingsoft-office-service.com
 0.0.0.0  cloudsrvtrk.com
@@ -65343,6 +65344,7 @@
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -78330,7 +78332,6 @@
 0.0.0.0  sourmath.com
 0.0.0.0  sousaira.com
 0.0.0.0  sousay.info
-0.0.0.0  sousuo.xm.sjzhushou.com
 0.0.0.0  southcoasttoday.112.2o7.net
 0.0.0.0  southcoasttodaycom.112.2o7.net
 0.0.0.0  southendstandard-gb.southendstandard.co.uk
@@ -85842,6 +85843,7 @@
 0.0.0.0  tracking.metalyzer.com
 0.0.0.0  tracking.military.com
 0.0.0.0  tracking.mindshare.de
+0.0.0.0  tracking.miui.com
 0.0.0.0  tracking.mobile.de
 0.0.0.0  tracking.mobileadstrk.com
 0.0.0.0  tracking.moneyam.com
