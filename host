@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-24
 #
-# Number of blocked domains:  109306
+# Number of blocked domains:  109303
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -45361,7 +45361,6 @@
 0.0.0.0  info.static.startappservice.com
 0.0.0.0  info.stockstar.com
 0.0.0.0  info.telstra.com
-0.0.0.0  info.wps.cn
 0.0.0.0  info.yitsoftware.com
 0.0.0.0  info1park.ru
 0.0.0.0  info24-warszawa.pl
@@ -65386,6 +65385,7 @@
 0.0.0.0  pc.gutouwang.net
 0.0.0.0  pc.quansj.cn
 0.0.0.0  pc.tunnel-vision.info
+0.0.0.0  pc.uf.ksosoft.com
 0.0.0.0  pc.videoclick.baidu.com
 0.0.0.0  pc.ziyuewentao.com
 0.0.0.0  pc1.da.mgtv.com
@@ -68020,7 +68020,6 @@
 0.0.0.0  prdwebcollector.ruetracking.com
 0.0.0.0  pre-usermatch.targeting.unrulymedia.com
 0.0.0.0  pre.ads.justpremium.com
-0.0.0.0  pre.api.tw06.xlmc.sandai.net
 0.0.0.0  pre.glotgrx.com
 0.0.0.0  pre.ra.icast.cn
 0.0.0.0  preadyaggrego.club
@@ -69305,7 +69304,6 @@
 0.0.0.0  push.wandoujia.com
 0.0.0.0  push.wapx.cn
 0.0.0.0  push.world
-0.0.0.0  push.wps.cn
 0.0.0.0  push.xdrig.com
 0.0.0.0  push.yoads.net
 0.0.0.0  push.yuedu.163.com
@@ -88270,7 +88268,6 @@
 0.0.0.0  up.mykings.pw
 0.0.0.0  up.nytimes.com
 0.0.0.0  up.qingdaonews.com
-0.0.0.0  up.wps.kingsoft.com
 0.0.0.0  up1.tj.u2.ucweb.com
 0.0.0.0  up4.ucweb.com
 0.0.0.0  upads.info
@@ -89461,6 +89458,7 @@
 0.0.0.0  vcxz.pl
 0.0.0.0  vcyxvhxysl.com
 0.0.0.0  vczprcezg.com
+0.0.0.0  vd.l.qq.com
 0.0.0.0  vda.17173.com
 0.0.0.0  vda.oipzyrzffum.ovh
 0.0.0.0  vdains.info
@@ -92990,7 +92988,6 @@
 0.0.0.0  wonwg.com
 0.0.0.0  wooboo.com.cn
 0.0.0.0  woobox.com
-0.0.0.0  woocall.sina.com.cn
 0.0.0.0  wood-pen.com
 0.0.0.0  woodpecker.uc.cn
 0.0.0.0  woodworkingdm.com
