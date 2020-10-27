@@ -8,7 +8,7 @@
 #
 # Last update: 2020-10-27
 #
-# Number of blocked domains:  109363
+# Number of blocked domains:  109365
 #
 #=====================================
 0.0.0.0  .beeglivesex.com
@@ -60608,6 +60608,7 @@
 0.0.0.0  news.cxxtv.com
 0.0.0.0  news.dable.io
 0.0.0.0  news.de.intellitxt.com
+0.0.0.0  news.docer.com
 0.0.0.0  news.fangdaijisuanqi.com
 0.0.0.0  news.fark.com
 0.0.0.0  news.govorjat.ru
@@ -66631,6 +66632,7 @@
 0.0.0.0  pixfuture.net
 0.0.0.0  pixiedust.buzzfeed.com
 0.0.0.0  piximedia.com
+0.0.0.0  pixiu.shangshufang.ksosoft.com
 0.0.0.0  pixiv.org
 0.0.0.0  pixnbeats.com
 0.0.0.0  pixon.ads-pixiv.net
